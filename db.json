@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "student_name": "Nguyễn Thees Cuongwf",
+      "email": "minhchau@gmail.com",
+      "address": "Hồp",
+      "phone": "0987654321",
+      "status": true,
+      "created_at": "10-06-2024"
+    },
+    {
+      "id": 3,
+      "student_name": "Trần Quuoc Huy",
+      "email": "quanghuy@gmail.com",
+      "address": "Hp",
+      "phone": "0912345678",
+      "status": true,
+      "created_at": "10-06-2024"
+    },
+    {
+      "id": 4,
+      "student_name": "Lê Thị Hồng Nhung",
+      "email": "hongnhung@gmail.com",
+      "address": "Cần Thơ",
+      "phone": "0908765432",
+      "status": true,
+      "created_at": "10-06-2024"
+    },
+    {
+      "id": 5,
+      "student_name": "Vũ Hoangf long",
+      "email": "dinhlong@gmail.com",
+      "address": "Hải Phòng",
+      "phone": "0981122334",
+      "status": true,
+      "created_at": "10-06-2024"
+    },
+    {
+      "id": 7,
+      "student_name": "Tran Duc cuong",
+      "email": "BC@gmail.com",
+      "address": "Hồ Chí Minh",
+      "phone": "098765434",
+      "status": true,
+      "created_at": "2024-06-10"
+    }
+  ]
+}
